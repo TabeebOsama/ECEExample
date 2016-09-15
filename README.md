@@ -2,4 +2,4 @@ HELLO WORLD
 
 Jennifer Goodell learning Github!
 
-Figuring out how to manage conflicts.
+New Conflicts same line.
